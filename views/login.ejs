@@ -1,0 +1,34 @@
+<html>
+  <head>
+    <title>Login</title>
+    <link rel="stylesheet" type="text/css" href = 'css/login.css' />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  </head>
+  <body>
+    <div class="head">
+      <div class="form-box">
+        <div class="button-box">
+          <div id="btn"></div>
+          <button type="button" class="toggle-btn" onclick="login()">
+            Login
+          </button>
+          <button type="button" class="toggle-btn" onclick="register()">
+            Register
+          </button>
+        </div>
+        <form id="login" class="input"  method="POST" action="login">
+          <input type="text" class="input-field" name = 'phoneNumber' placeholder="Mobile Number" autocomplete="off" required='' />
+          <input type="password" class="input-field" name="password" placeholder="Password" required=''/>
+          <button type="submit" class="submit-btn">Submit</button>
+        </form>
+        <form id="register" class="input" method="POST" action="Register">
+          <input type="tel" id = 'r-number' class="input-field" name="phoneNumber" autocomplete="off" placeholder="Mobile Number"/>
+          <input type="text" name='name' class="input-field" placeholder="Enter your name" autocomplete="off"  required>
+          <input type="date" name="dob"size="25" class="input-field" autocomplete="off" required pattern="\d{4}-\d{2}-\d{2}">
+          <button type="submit" class="submit-btn">Submit</button>
+        </form>
+      </div>
+    </div>
+  </body>
+</html>
+<script src = 'scripts/login.js'></script>

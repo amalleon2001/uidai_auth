@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>KYC</title>
+        <link rel="stylesheet" href="css/kyc.css">
+        <script src = 'scripts/kyc.js'></script>
+    </head>
+    <body>
+        <div class="head">
+            <div class="form-box">
+                <div class="heading">Know Your Customer</div>
+                <form id="login" class="input">
+                    <input type="text" class="input-field" placeholder="Reason For Kyc" required>
+                    <div class = 'image-box' onclick="selectImage()">
+                        <h5>Choose Image</h5>
+                        <img id = 'image' />
+                    </div>
+                    <button type="submit" onclick="submitKyc()" class="submit-btn">Submit</button>
+                </form>
+            </div>
+        </div>
+    </body>
+</html>

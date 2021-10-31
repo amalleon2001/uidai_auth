@@ -1,0 +1,550 @@
+info: 	Server running on port : 2020 {"timestamp":"2021-10-15 10:38:26"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-15 10:38:26"}
+info: 	202192221653 deleted. {"label":"Products/deleteSale","timestamp":"2021-10-15 10:42:58"}
+info: 	20219222832 deleted. {"label":"Products/deleteSale","timestamp":"2021-10-15 10:44:12"}
+info: 	Server running on port : 2020 {"timestamp":"2021-10-15 10:50:12"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-15 10:50:12"}
+info: 	202198133457 deleted. {"label":"Products/deleteSale","timestamp":"2021-10-15 10:50:31"}
+info: 	202198133554 deleted. {"label":"Products/deleteSale","timestamp":"2021-10-15 10:51:47"}
+info: 	Server running on port : 2020 {"timestamp":"2021-10-15 10:53:07"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-15 10:53:07"}
+info: 	202198133620 deleted. {"label":"Products/deleteSale","timestamp":"2021-10-15 10:53:27"}
+info: 	1 purchased 202161519612 {"label":"Billing/createSale","timestamp":"2021-10-15 11:21:33"}
+info: 	2021915112131 deleted. {"label":"Products/deleteSale","timestamp":"2021-10-15 11:21:36"}
+info: 	202161519612 updated. {"label":"Products/updateProduct","timestamp":"2021-10-15 11:22:48"}
+info: 	20219813412 deleted. {"label":"Products/deleteSale","timestamp":"2021-10-15 11:23:01"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-27 10:36:04"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-27 10:36:04"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-27 10:36:44"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-27 10:36:44"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-27 10:47:19"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-27 10:47:19"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-27 10:53:12"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-27 10:53:12"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-27 10:53:18"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-27 10:53:18"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-27 10:53:23"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-27 10:53:23"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-27 10:54:16"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-27 10:54:16"}
+error: 	Error: WHERE parameter "phonenumber" has invalid "undefined" value {"label":"login","timestamp":"2021-10-27 10:56:02"}
+error: 	Error: WHERE parameter "phonenumber" has invalid "undefined" value {"label":"login","timestamp":"2021-10-27 10:56:05"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-27 10:56:24"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-27 10:56:24"}
+error: 	Error: WHERE parameter "phonenumber" has invalid "undefined" value {"label":"login","timestamp":"2021-10-27 10:56:28"}
+error: 	Error: WHERE parameter "phonenumber" has invalid "undefined" value {"label":"login","timestamp":"2021-10-27 10:56:35"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-27 10:57:10"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-27 10:57:10"}
+error: 	Error: WHERE parameter "phonenumber" has invalid "undefined" value {"label":"login","timestamp":"2021-10-27 10:57:12"}
+error: 	SequelizeDatabaseError: Unknown column 'aadhar_number' in 'field list' {"label":"login","timestamp":"2021-10-27 10:58:28"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-27 10:58:54"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-27 10:58:54"}
+error: 	SequelizeDatabaseError: Unknown column 'aadhar_number' in 'field list' {"label":"login","timestamp":"2021-10-27 10:58:56"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-27 10:59:42"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-27 10:59:42"}
+error: 	SequelizeDatabaseError: Table 'uidai_authentication.login' doesn't exist {"label":"login","timestamp":"2021-10-27 10:59:48"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-27 11:00:17"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-27 11:00:17"}
+error: 	SequelizeDatabaseError: Table 'uidai_authentication.aadhar_details' doesn't exist {"label":"login","timestamp":"2021-10-27 11:00:20"}
+info: 	Login Successfull {"label":"login","timestamp":"2021-10-27 11:00:57"}
+error: 	ReferenceError: userName is not defined {"label":"login","timestamp":"2021-10-27 11:00:57"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-27 11:02:22"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-27 11:02:22"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-27 11:02:38"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-27 11:02:38"}
+info: 	Login Successfull {"label":"login","timestamp":"2021-10-27 11:02:41"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:11:21"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:11:21"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:16:14"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:16:14"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:17:10"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:17:10"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:17:49"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:17:49"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:19:13"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:19:14"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:21:08"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:21:08"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:22:22"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:22:22"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:23:13"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:23:13"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:25:21"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:25:21"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:25:38"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:25:38"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:27:22"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:27:22"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:27:25"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:27:25"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:27:39"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:27:39"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:29:09"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:29:09"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:29:30"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:29:30"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:29:34"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:29:34"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:29:59"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:29:59"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:30:17"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:30:17"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:31:21"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:31:21"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:31:34"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:31:34"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:31:41"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:31:41"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:31:51"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:31:51"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:33:28"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:33:28"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:33:49"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:33:49"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:34:17"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:34:17"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:35:06"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:35:06"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 05:35:10"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:36:52"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:36:52"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:37:12"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:37:12"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 05:37:15"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 05:37:45"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 05:38:02"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 05:38:52"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 05:39:16"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 05:40:34"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 05:41:01"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 05:41:42"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 05:42:35"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:49:10"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:49:10"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:49:44"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:49:44"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 05:49:46"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:50:18"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:50:18"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 05:50:21"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 05:50:34"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 05:50:39"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:51:03"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:51:03"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 05:51:05"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:52:25"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:52:25"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:52:48"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:52:48"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:53:17"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:53:17"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:58:24"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:58:24"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 05:59:38"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 05:59:38"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:02:30"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:02:30"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:02:38"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:02:38"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:08:18"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:08:18"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:09:38"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:09:38"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:10:34"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:10:37"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:10:38"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:11:04"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:11:04"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:11:17"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:11:33"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:13:24"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:13:24"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:13:25"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:13:53"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:13:53"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:13:56"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:15:00"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:15:23"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:15:23"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:15:24"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:15:32"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:16:38"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:16:39"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:17:08"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:17:08"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:17:31"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:18:17"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:18:17"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:18:28"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:18:28"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:18:36"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:18:36"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:18:36"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:18:40"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:18:41"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:18:42"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:18:44"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:18:52"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:18:52"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:18:54"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:19:02"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:19:02"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:19:04"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:19:28"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:19:28"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:19:30"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:19:38"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:19:38"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:19:40"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:19:41"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:19:49"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:19:49"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:19:52"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:20:05"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:20:05"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:20:11"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:21:21"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:21:21"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:21:24"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:22:08"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:22:08"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:22:45"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:22:45"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:22:47"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:22:50"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:24:42"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:24:42"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:24:44"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:24:52"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:24:52"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:25:00"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:25:00"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:25:02"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:25:42"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:25:42"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:25:58"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:25:58"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:26:27"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:26:28"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:26:39"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:26:53"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:26:53"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:26:55"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:27:34"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:28:06"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:28:06"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:28:13"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:28:13"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:28:17"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:41:59"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:41:59"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:42:28"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:42:28"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:43:32"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:43:32"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:43:46"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:43:46"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:43:50"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:44:13"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:44:13"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:44:16"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:44:54"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:44:54"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:44:56"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:45:16"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:45:16"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:45:18"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:45:38"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:45:38"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:46:28"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:46:28"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:47:06"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:47:06"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:47:16"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:47:16"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:47:33"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:47:33"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:47:37"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:47:37"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:48:24"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:48:24"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:48:34"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:49:03"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:49:05"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:49:18"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:49:18"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:49:25"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:50:15"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:50:15"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:50:22"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:50:22"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:51:29"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:51:29"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:51:33"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:51:33"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:52:10"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:52:13"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:55:24"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:56:14"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:56:44"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:57:10"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:57:10"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:57:12"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:57:50"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:57:50"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:57:53"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 06:59:26"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 06:59:26"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:59:28"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 06:59:36"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 07:00:21"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 07:00:21"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 07:00:23"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 07:00:47"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 07:00:47"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 07:00:49"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 07:00:54"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 07:01:21"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 07:01:21"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 07:01:23"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 07:01:30"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 07:01:30"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 07:01:30"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 07:01:34"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 07:02:02"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 07:02:30"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 07:02:39"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 07:03:03"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 07:03:03"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 07:03:06"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 07:03:12"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 07:03:42"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 07:04:16"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 07:04:16"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 07:04:18"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 07:04:25"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 07:04:58"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 07:04:58"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 07:05:03"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 07:05:33"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 07:05:33"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 07:05:59"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 07:05:59"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 07:06:03"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 07:07:08"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 07:07:19"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 07:07:57"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 07:14:10"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 07:14:42"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 07:15:10"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 07:15:10"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 07:16:13"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 07:16:13"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 07:16:35"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 07:16:35"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 07:16:44"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 07:16:44"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 07:17:09"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 07:17:16"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 07:17:50"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 07:17:50"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 07:17:56"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 07:17:56"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 07:18:01"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 07:18:06"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 07:18:11"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 07:18:11"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 07:18:17"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 07:18:21"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 07:18:33"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 07:18:33"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 07:18:41"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 07:18:55"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 07:19:04"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 07:19:04"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 07:19:09"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 07:19:09"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 07:19:12"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 07:19:15"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-30 07:19:20"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 07:19:44"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 07:19:44"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 07:22:40"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 07:22:40"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 07:26:38"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 07:26:38"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 07:28:37"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 07:28:37"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 07:30:04"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 07:30:05"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 07:35:12"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 07:35:12"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 07:35:21"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 07:35:22"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 07:36:39"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 07:36:39"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-30 07:37:19"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-30 07:37:20"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-31 10:19:08"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 10:35:00"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 10:35:00"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 10:40:04"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 10:40:04"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 10:46:28"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 10:46:28"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 10:47:36"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 10:47:36"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-31 10:48:54"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-31 10:48:58"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-31 10:50:06"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-31 10:50:10"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 11:13:41"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 11:13:41"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-31 11:13:43"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 12:35:31"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 12:35:31"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 12:35:58"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 12:35:58"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 12:36:26"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 12:36:26"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 12:37:57"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 12:37:57"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 12:38:02"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 12:38:02"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 12:38:48"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 12:38:48"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 12:39:07"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 12:39:07"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 12:40:17"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 12:40:17"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 12:41:36"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 12:41:36"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 12:43:18"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 12:43:18"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 12:43:53"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 12:43:53"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 12:44:54"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 12:44:55"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 12:45:23"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 12:45:23"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 12:46:00"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 12:46:00"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 12:46:43"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 12:46:43"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 12:46:56"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 12:46:56"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 12:47:08"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 12:47:09"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 12:48:48"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 12:48:48"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 12:48:53"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 12:48:53"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 01:00:41"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 01:00:41"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 01:03:37"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 01:03:37"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 01:03:54"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 01:03:54"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 01:06:44"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 01:06:44"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 01:09:05"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 01:09:05"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 01:10:51"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 01:10:51"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 01:14:05"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 01:14:05"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 01:16:12"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 01:16:12"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 01:16:37"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 01:16:37"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-31 01:16:48"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-31 01:17:22"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 01:20:47"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 01:20:47"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 01:23:00"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 01:23:00"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 01:27:12"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 01:27:12"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 01:27:16"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 01:27:16"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-31 01:27:19"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-31 01:27:21"}
+error: 	TypeError: model.residentAuth is not a function {"label":"login","timestamp":"2021-10-31 01:27:30"}
+error: 	TypeError: model.residentAuth is not a function {"label":"login","timestamp":"2021-10-31 01:28:37"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 01:29:05"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 01:29:05"}
+error: 	TypeError: model.residentAuth is not a function {"label":"login","timestamp":"2021-10-31 01:29:13"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 01:29:56"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 01:29:56"}
+info: 	Login Successfull {"label":"login","timestamp":"2021-10-31 01:30:02"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 01:30:20"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 01:30:20"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 01:31:22"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 01:31:22"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 01:31:29"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 01:31:29"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 01:32:02"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 01:32:02"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 01:56:58"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 01:56:58"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 01:59:21"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 01:59:21"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 02:00:20"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 02:00:20"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 02:02:02"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 02:02:02"}
+info: 	user logged out {"label":"logout","timestamp":"2021-10-31 03:31:16"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 03:32:24"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 03:32:24"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 03:32:55"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 03:32:55"}
+info: 	user logged out {"label":"logout","timestamp":"2021-10-31 03:33:06"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-31 03:33:06"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-31 03:37:33"}
+info: 	Login Successfull {"label":"login","timestamp":"2021-10-31 03:38:47"}
+info: 	user logged out {"label":"logout","timestamp":"2021-10-31 03:54:49"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-31 03:54:49"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-31 03:55:08"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-31 03:55:56"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-31 03:55:59"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 05:31:59"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 05:31:59"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 06:08:22"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 06:08:22"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 06:10:00"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 06:10:00"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 06:10:09"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 06:10:09"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 06:10:49"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 06:10:49"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 06:12:19"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 06:12:19"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 06:19:23"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 06:19:23"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 06:19:47"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 06:19:47"}
+info: 	user logged out {"label":"logout","timestamp":"2021-10-31 06:20:04"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-31 06:20:04"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 06:25:02"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 06:25:03"}
+info: 	user logged out {"label":"logout","timestamp":"2021-10-31 06:25:09"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-31 06:25:09"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 06:29:54"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 06:29:54"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 06:30:31"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 06:30:31"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 06:30:49"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 06:30:49"}
+info: 	user logged out {"label":"logout","timestamp":"2021-10-31 06:32:30"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-31 06:32:30"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 06:33:08"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 06:33:08"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-31 06:34:18"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-31 06:35:01"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-31 06:35:26"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-31 06:35:52"}
+info: 	user logged out {"label":"logout","timestamp":"2021-10-31 06:37:36"}
+error: 	TokenNotFound: Access Token Not Available. {"label":"checkRoutes","timestamp":"2021-10-31 06:37:36"}
+info: 	Login Successfull {"label":"login","timestamp":"2021-10-31 06:37:53"}
+info: 	Server running on port : 2022 {"timestamp":"2021-10-31 07:34:02"}
+info: 	Connected Successfully {"label":"Database","timestamp":"2021-10-31 07:34:02"}

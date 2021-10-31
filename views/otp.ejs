@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>OTP verification</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" href="css/otp.css">
+</head>
+<body>
+<div class="otp-verify">
+        <h2 class="text-center">OTP Verification
+     
+<img class="text-center" src="images/adhar.png" width="200" height="200" ></h2>
+    
+         <h4 class="text-center">Enter a verification code</h4>
+         <h6 class="text-center" style="color:grey;">A SMS with a verification code has been sent.</h6>
+        <div class="form-group">
+            <form id="register" class="input" method="post" action ="/Otp">
+                <input type="text" class="form-control" name="otpNumber" autocomplete="off" placeholder="Enter the 4 digit code" required><br>
+                <button type="submit" class="submit-btn">Submit</button>
+            </form>
+        </div>      
+</div>
+
+</body>
+</html>   

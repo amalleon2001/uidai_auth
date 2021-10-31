@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <title>QR code</title>
+        <link rel="stylesheet" href="css/home.css">
+    </head>
+    <body>
+        <div class="he">
+            <div class="form-box1">
+                <div class="qr-box">
+                    <img id = 'qrcode' />
+                </div>
+                <h3>Scan the QR Code to verify</h3><br><br>
+                <h6>Do not share your QR code or any details with strangers</h6>
+                <form method="get" action ="Kyc">
+                    <button type="submit">Generate New Kyc</button>
+                </form>
+            </div>
+        </div>
+    </body>
+</html>
+
+<script>
+    const qrcode = localStorage.getItem("ResidentQrocde");
+    if(qrcode != null){
+        document.getElementById('qrcode').src = qrcode;
+    }
+</script>
